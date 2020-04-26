@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eedf8782-50fb-41e2-b2cf-7fe2bed32a4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLttWFBSUs7iekKVfS6D8lsfZA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hemantva\IdeaProjects\testAutomation\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AlertTests">
+    <configuration name="AlertTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alerts" />
+      <option name="MAIN_CLASS_NAME" value="alerts.AlertTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KeysTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest.tabSwitchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigationb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigationb" />
+      <option name="MAIN_CLASS_NAME" value="navigationb.NavigationTest" />
+      <option name="METHOD_NAME" value="tabSwitchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationTest.testNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigationb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigationb" />
+      <option name="MAIN_CLASS_NAME" value="navigationb.NavigationTest" />
+      <option name="METHOD_NAME" value="testNavigation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AlertTests" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.KeysTest" />
+        <item itemvalue="TestNG.NavigationTest.tabSwitchTest" />
+        <item itemvalue="TestNG.NavigationTest.testNavigation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eedf8782-50fb-41e2-b2cf-7fe2bed32a4f" name="Default Changelist" comment="" />
+      <created>1584630416887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584630416887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1586171969460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586171969460" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584863617026">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1584863617026" />
+    <state x="452" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1586609973150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586609973150" />
+    <state x="452" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586240625102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="253" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1586240625102" />
+    <state x="529" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1584633417373" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1586606440975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586606440975" />
+    <state width="1286" height="211" key="GridCell.Tab.0.bottom" timestamp="1586695236349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586695236349" />
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585398112695" />
+    <state width="1286" height="211" key="GridCell.Tab.0.center" timestamp="1586695236349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586695236349" />
+    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585398112695" />
+    <state width="1286" height="211" key="GridCell.Tab.0.left" timestamp="1586695236348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586695236348" />
+    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585398112695" />
+    <state width="1286" height="211" key="GridCell.Tab.0.right" timestamp="1586695236349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586695236349" />
+    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585398112695" />
+    <state width="1286" height="211" key="GridCell.Tab.1.bottom" timestamp="1586695236350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586695236350" />
+    <state width="1557" height="256" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585398017807" />
+    <state width="1286" height="211" key="GridCell.Tab.1.center" timestamp="1586695236350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586695236350" />
+    <state width="1557" height="256" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585398017807" />
+    <state width="1286" height="211" key="GridCell.Tab.1.left" timestamp="1586695236350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586695236350" />
+    <state width="1557" height="256" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585398017806" />
+    <state width="1286" height="211" key="GridCell.Tab.1.right" timestamp="1586695236350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="211" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586695236350" />
+    <state width="1557" height="256" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585398017807" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1586606424756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586606424756" />
+    <state x="428" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1587047506831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="215" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587047506831" />
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585117981154" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587047602414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587047602414" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1586606400825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586606400825" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testAutomation$HoverTests_testHourUser1.ic" NAME="HoverTests.testHourUser1 Coverage Results" MODIFIED="1585395605172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hover.*</FILTER>
+    </SUITE>
+  </component>
+</project>
